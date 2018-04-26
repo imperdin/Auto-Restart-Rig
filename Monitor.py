@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#Written by Imperdin
 import socket
 from time import sleep
 import os
